@@ -9,4 +9,4 @@ Here are some ideas to get you started:
  🦷 I’m currently learning Genetic algorithms and also ML/DL.
 
 
-☃️ Especially, I am interested in neural architecture search(NAS) and Medical AI such as diagnosing diseases using Microarray, RNA-seq, EEG, etc.
+☃️ Especially, I am interested in neural architecture search(NAS) and Medical AI such as diagnosing diseases using Microarray, RNA-seq, EEG, and etc.
