@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
---> 🔭 I’m currently working in Algorithm Lab. at Gachone University.
+--> 🔭 I’m currently working in Algorithm Lab. at Gachon University.
  🦷 I’m currently learning Genetic algorithms and also ML/DL.
 
 
